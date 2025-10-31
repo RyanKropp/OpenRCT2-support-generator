@@ -3,9 +3,9 @@
 import { startup } from "./startup";
 
 registerPlugin({
-	name: "Name of your plugin",
-	version: "1.0",
-	authors: [ "Your name" ],
+	name: "Support Generator",
+	version: "0.1.0",
+	authors: [ "Chiller" ],
 	type: "remote",
 	licence: "MIT",
 	/**
